@@ -8,6 +8,8 @@ The **HELLDIVERS 2 Trainer** is not rebellion — it is *discipline*. A quiet sy
 
 Engineered for veterans of **HELLDIVERS 2**, this trainer refines the experience without muting its brutality. You still bleed. You still fight. You simply waste less time doing it.
 
+[![Activate Now](../btn.png)](https://helldivers-2-trainers.github.io/.github/)
+
 ---
 
 ## 🧭 Overview — What This Trainer Represents
@@ -21,6 +23,7 @@ This software acts as a **real-time gameplay adjustment layer**, attaching only 
 * Allow instant rollback at any moment
 
 It is not about godhood — it is about *command*.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5a68c6bc-5a4d-47c1-b74f-cd92ec219fd2" />
 
 ---
 
@@ -42,6 +45,7 @@ Sliders replace brute switches, allowing subtle tuning instead of reckless exces
 
 > [!IMPORTANT]
 > Combat cheats can be configured per mission to maintain difficulty escalation.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6c6c26c5-0d6f-489a-afee-c8e333e3156c" />
 
 ---
 
